@@ -1,4 +1,12 @@
-# Halide-Identity-Shapes-Ion-Pairing-and-Solvent-Dynamics-in-Aqueous-Lithium-Halide-Electrolytes
-Dilshan Karunachandra,†,‡ Subhajit Acharya,†,‡ and Saswata Dasgupta∗,†
-†Department of Chemistry, Kansas State University, Manhattan,
-KS 66506, United States
+Halide Identity Shapes Ion Pairing and Solvent Dynamics in Aqueous Lithium Halide Electrolytes
+Dilshan Karunachandra<sup>†,‡</sup>, Subhajit Acharya<sup>†,‡</sup>, and Saswata Dasgupta<sup>*,†</sup>
+
+<sup>†</sup> Department of Chemistry, Kansas State University, Manhattan, KS 66506, United States
+
+Journal: The Journal of Physical Chemistry Letters
+Overview
+This repository contains the MACE machine learning potentials and training datasets accompanying our study of ion pairing and solvent dynamics in aqueous lithium halide electrolytes. The models cover LiF, LiCl, LiBr, and LiI and were developed using DC-r²SCAN reference calculations.
+Repository contents
+Folder	Contents
+[MACE potentials](MACE%20potentials/)	Trained MACE potentials for LiF, LiCl, LiBr, and LiI.
+[training sets](training%20sets/)	Training datasets used to develop the corresponding lithium halide potentials.
