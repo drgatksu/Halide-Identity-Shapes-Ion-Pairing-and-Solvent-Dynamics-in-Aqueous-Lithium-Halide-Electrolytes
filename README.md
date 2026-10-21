@@ -1,6 +1,6 @@
 # Halide Identity Shapes Ion Pairing and Solvent Dynamics in Aqueous Lithium Halide Electrolytes
 
-**Dilshan Karunachandra<sup>†, Subhajit Acharya<sup>†, and Saswata Dasgupta<sup>*,†</sup>**
+**Dilshan Karunachandra<sup>†</sup>, Subhajit Acharya<sup>†</sup>, and Saswata Dasgupta<sup>*,†</sup>**
 
 <sup>†</sup> Department of Chemistry, Kansas State University, Manhattan, KS 66506, United States  
 
