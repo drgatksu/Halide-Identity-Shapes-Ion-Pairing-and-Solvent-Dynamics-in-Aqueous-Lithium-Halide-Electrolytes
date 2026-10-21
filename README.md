@@ -4,7 +4,7 @@
 
 <sup>†</sup> Department of Chemistry, Kansas State University, Manhattan, KS 66506, United States  
 
-**Journal:** *The Journal of Physical Chemistry Letters*
+Karunachandra, D.; Acharya, S.; Dasgupta, S. [Halide Identity Shapes Ion Pairing and Solvent Dynamics in Aqueous Lithium Halide Electrolytes](https://doi.org/10.1021/acs.jpclett.6c03292). *J. Phys. Chem. Lett.* **2026**, ASAP.
 
 ## Overview
 
