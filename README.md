@@ -14,5 +14,5 @@ This repository contains the MACE machine learning potentials and training datas
 
 | Folder | Contents |
 | --- | --- |
-| [MACE potentials](MACE%20potentials/) | Trained MACE potentials for LiF, LiCl, LiBr, and LiI. |
+| [MACE potentials](MACE%20potentials/) | Full MACE potentials trained for LiF, LiCl, LiBr, and LiI without an explicit electrostatic baseline. |
 | [training sets](training%20sets/) | Training datasets used to develop the corresponding lithium halide potentials. |
